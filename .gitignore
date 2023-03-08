@@ -1,1 +1,10 @@
+# Python ignores
 .venv/
+venv/
+__pycache__
+
+# Visual Studio Code
+.vscode/
+
+# Mypy
+.mypy_cache/
